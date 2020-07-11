@@ -22,8 +22,8 @@ Por conta disso ela deve seguir os critérios a seguir
 | LED Difuso Vermelho             | 1          | R$ 0,24 | [aqui](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html)         |
 
 ## Circuito no Falstad
-![Circuito Falstad](./circuitoFonte-falstad.png)
-- Link para o circuito: http://tinyurl.com/ydeaaa7w
+![Circuito Falstad](./foto_do_circuito.png)
+- Link para o circuito: http://tinyurl.com/ydcfs8b9
 
 ## Detalhes do Circuito
 
