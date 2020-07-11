@@ -1,5 +1,6 @@
 ## Objetivo do Projeto
 Desenvolver uma fonte elétrica capaz de fornecer energia para pequenos projetos de eletrônica, como projetos de Arduino.
+Por conta disso ela deve seguir os critérios a seguir
 
 ## Critérios da Fonte
 - Componentes elétricos simples
@@ -22,7 +23,8 @@ Desenvolver uma fonte elétrica capaz de fornecer energia para pequenos projetos
 
 ## Circuito no Falstad
 ![Circuito Falstad](./circuitoFonte-falstad.png)
-- Link para o circuito: http://tinyurl.com/ycug7qdo
+- Link para o circuito: http://tinyurl.com/ydeaaa7w
 
 ## Detalhes do Circuito
+
 ## EAGLE - Esquemâtico e PCB
