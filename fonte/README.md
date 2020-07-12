@@ -12,7 +12,7 @@ Por conta disso ela deve seguir os critérios a seguir
 |---------------------------------|------------|---------|---------------------------------------------------------------------------------|
 | Transformador 127/220AC -> 15v  | 1          | R$33,15 | [aqui](https://www.baudaeletronica.com.br/transformador-trafo-1a-15v-15v.html)  |
 | Diodo Zener 1N4743 13v          | 1          | RS 0,35 | [aqui](https://www.mamuteeletronica.com.br/diodo-zener-1n4743-13v-1w-do-41)     |
-| Diodos 1N4001                   | 4          | R$ 0,14 | [aqui](https://www.baudaeletronica.com.br/diodo-1n4001.html)                    |
+| Ponte Retificadora 10A 100V     | 1          | R$ 0,14 | [aqui](https://www.casadoresistor.com.br/ponte-retificadora-10a-1000v-zcdp0003-p4727)                    |
 | Potenciômetro Linear 5k R       | 1          | R$ 1,09 | [aqui](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
 | Transistor NPN 2N222            | 1          | R$ 0,35 | [aqui](https://www.autocorerobotica.com.br/2n222-transistor-npn)                |
 | Capacitor 470uf                 | 1          | R$ 1,00 | [aqui](https://www.tecnotronics.com.br/capacitor-eletrolitico-470uf-25v.html)   |
@@ -28,3 +28,5 @@ Por conta disso ela deve seguir os critérios a seguir
 ## Detalhes do Circuito
 
 ## EAGLE - Esquemâtico e PCB
+![Esquemâtico](./esquematico-Eagle.png)
+![PCB](./pcb-Eagle.png)
