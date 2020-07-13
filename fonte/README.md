@@ -26,6 +26,8 @@ Por conta disso ela deve seguir os critérios a seguir
 - Link para o circuito: http://tinyurl.com/ya6ys3xx
 
 ## Detalhes do Circuito
+### [Video sobre Projeto](https://youtu.be/0voirnk2L9U)
+
 Justificativa para os componentes da fonte
 
 ### Ponte Retificadora:
