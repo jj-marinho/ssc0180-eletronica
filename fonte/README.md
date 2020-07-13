@@ -23,7 +23,7 @@ Por conta disso ela deve seguir os critérios a seguir
 | Total                           |            | R$43,16 |                                                                                 |
 ## Circuito no Falstad
 ![Circuito Falstad](./circuitoFonte-falstad.png)
-- Link para o circuito: http://tinyurl.com/y87mwxah
+- Link para o circuito: http://tinyurl.com/ya6ys3xx
 
 ## Detalhes do Circuito
 Justificativa para os componentes da fonte
